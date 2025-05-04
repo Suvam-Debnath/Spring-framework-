@@ -30,3 +30,13 @@ SpringJDBC5_NamedParameterJDBCTemplate: Utilizes NamedParameterJdbcTemplate for 
 MvcDesignPattern: Implements the MVC design pattern in a Spring application.
 
 MavenFirstProject: A Maven-based Spring project setup.
+
+### Key Concepts Covered
+
+- ✅ Dependency Injection (DI) via XML and Java Config
+- ✅ Constructor vs Setter Injection
+- ✅ Autowiring Beans
+- ✅ CRUD operations using Spring JDBC
+- ✅ NamedParameterJdbcTemplate usage
+- ✅ Basic Spring MVC Design Pattern
+- ✅ Maven-based Spring Project Setup
